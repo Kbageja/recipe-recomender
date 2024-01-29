@@ -11,10 +11,8 @@
     margin: 15px 10px;
     width:87.5vw;
     height: 80vh;
-    box-sizing: border-box;
-    border-radius: 13px;
-    box-shadow: 4px 4px 5px rgb(150, 149, 149);
-    padding-bottom: 15px;
+   
+   
 }
 .recipeimg .active img{
    
